@@ -37,3 +37,15 @@ main{
 .actif{background:#d4f5e9;color:green;}
 .maintenance{background:#fff3cd;color:orange;}
 .hs{background:#f8d7da;color:red;}
+
+button {
+    background-color: #3498db; /* bleu */
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    margin: 5px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 14px;
+    transition: 0.3s;
+}
